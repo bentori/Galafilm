@@ -1,0 +1,11 @@
+
+{
+  "name": "Galafilm",
+  "plugins": [
+    {
+      "name": "Galafilm",
+      "version": "1.0",
+      "url": "https://github.com/bentori/Galafilm/raw/main/plugins/Galafilm.cs3"
+    }
+  ]
+}
